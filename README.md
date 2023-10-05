@@ -25,3 +25,4 @@ This Python script can help you collect smooth muscle contraction data under BL4
 ![70eabd743e2ec2501234277dbeb76ac](https://github.com/pheonixchen/Smooth-muscle-data-collection/assets/115352360/26c49c2e-654b-4af1-bdf7-6c2ae27df8fc)
 运行效果如下
 ![51baaf635abfe8481f21146bddbd254](https://github.com/pheonixchen/Smooth-muscle-data-collection/assets/115352360/4f3e907c-2d93-48bd-a577-e95d328c4766)
+
