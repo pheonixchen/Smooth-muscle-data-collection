@@ -25,4 +25,8 @@ This Python script can help you collect smooth muscle contraction data under BL4
 ![70eabd743e2ec2501234277dbeb76ac](https://github.com/pheonixchen/Smooth-muscle-data-collection/assets/115352360/26c49c2e-654b-4af1-bdf7-6c2ae27df8fc)
 运行效果如下
 ![51baaf635abfe8481f21146bddbd254](https://github.com/pheonixchen/Smooth-muscle-data-collection/assets/115352360/4f3e907c-2d93-48bd-a577-e95d328c4766)
-
+后续数据在excel中进行β加权平滑
+![2946134c4183c72040757380a293978](https://github.com/pheonixchen/Smooth-muscle-data-collection/assets/115352360/ea416c16-fd4d-4966-a118-030b3e2e6561)
+![867ba1c6e74f11990edf8b5dea0ad5b](https://github.com/pheonixchen/Smooth-muscle-data-collection/assets/115352360/292869c4-2c30-4c93-86af-69b33c115236)
+最终的乙酰胆碱和兔小肠的量效曲线如下，可以看到有明显的平台期，为标准的逻辑斯蒂曲线
+![64714f4053036f54994e2cfcabe90d7](https://github.com/pheonixchen/Smooth-muscle-data-collection/assets/115352360/fc2f744e-ea45-45c8-b559-fe7376f7d676)
